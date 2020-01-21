@@ -45,15 +45,15 @@ This project is a part of an interview assignment for Holmusk.
 ### Modelling Dataframe
 |Feature|Type|Description|
 |---|---|---|
-| 'medical_history_1_1'| Dummy | Medical History 1 |
-| 'medical_history_2_1'| Dummy | Medical History 2 |
-|'medical_history_5_1'| Dummy | Medical History 5 |
-|'medical_history_6_1'| Dummy | Medical History 6 |
-|'symptom_1_1'| Dummy | Symptom 1 |
-| 'symptom_2_1'| Dummy | Symptom 2 |
-| 'symptom_3_1'| Dummy | Symptom 3 |
-| 'symptom_4_1'| Dummy | Symptom 4 |
-|'symptom_5_1'| Dummy | Symptom 5 |
+| 'medical_history_1_1'| Dummy | Medical History 1 (1)|
+| 'medical_history_2_1'| Dummy | Medical History 2 (1)|
+|'medical_history_5_1'| Dummy | Medical History 5 (1)|
+|'medical_history_6_1'| Dummy | Medical History 6 (1)|
+|'symptom_1_1'| Dummy | Symptom 1 (1)|
+| 'symptom_2_1'| Dummy | Symptom 2 (1)|
+| 'symptom_3_1'| Dummy | Symptom 3 (1)|
+| 'symptom_4_1'| Dummy | Symptom 4 (1)|
+|'symptom_5_1'| Dummy | Symptom 5 (1)|
 | 'gender_Male'| Dummy | Gender (Male)|
 |'race_Indian'| Dummy | Race (Indian)|
 |'race_Malay'| Dummy | Race (Malay)|
